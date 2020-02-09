@@ -1,0 +1,29 @@
+ .NewBannerImage{
+    float: left;
+    max-height: 25px;
+    max-width: 25px;
+    margin-right: 20px;
+
+  }
+
+  .NewBannerFileName{ 
+
+    margin-left: 10px;
+  }
+
+  .NewBanner img{
+    max-height: 20px;
+    max-width: 20px;
+
+
+  }
+
+  .NewBanner input {
+    display: none;
+  }
+
+  .BannerImage{
+  max-width: 930px;
+  
+    }
+  
